@@ -16,3 +16,4 @@
 10) git remote rm origin -- отключить связь с репозиторием
 
 11) git clone https://github.com/VovAragok/Test_1.git -- полностью скопируешь себе код с github
+
