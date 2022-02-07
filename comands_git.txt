@@ -12,3 +12,5 @@
 7) git branch -M main
 8) git remote add origin git@github.com:VovAragok/Task1.git
 9) git push -u origin main
+
+10) git remote rm origin -- отключить связь с репозиторием
