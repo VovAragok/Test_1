@@ -1,10 +1,12 @@
-1) git init
+1) git init(инициализация нового проекта)
 
-2) git status
-3) git add L_git_main.py
+2) git status(статус файла)
+3) git add L_git_main.py(добавить файл или все файлы в гит)
 3.1) git add --all
-4) git commit -m "add file L_git_main"
+4) git commit -m "add file L_git_main"(сохранить с комментарием)
 
-5) git log
+5) git log(просмотреть изменения всех комитов)
 
-6) git diff L_git_main.py
+6) git diff L_git_main.py(посмотреть изменения которые не за коммитены)
+
+7) git branch -M main
