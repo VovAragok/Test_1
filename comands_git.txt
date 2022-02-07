@@ -1,0 +1,9 @@
+1) git init
+
+2) git status
+3) git add L_git_main.py
+4) git commit -m "add file L_git_main"
+
+5) git log
+
+6) git diff L_git_main.py
